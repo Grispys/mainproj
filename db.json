@@ -1,0 +1,89 @@
+{
+    "items": [
+      { 
+        "id": 1,
+        "name": "Television",
+        "image": "",
+        "desc": "",
+        "price": 300.00 
+      },
+      { 
+        "id": 2,
+        "name": "Blintendo Snitch",
+        "image": "",
+        "desc": "",
+        "price": 199.99 
+        },
+      {
+        "id": 3,
+        "name": "1/4th of Einstein's Brain",
+        "image": "",
+        "desc": "", 
+        "price": 1999.99 
+        },
+      {
+        "id": 4, 
+        "name": "Jar of Greed",
+        "image": "",
+        "desc": "", 
+        "price": 99.98 
+        },
+      {
+        "id": 5, 
+        "name": "The Blanket", 
+        "image": "",
+        "desc": "", 
+        "price": 9.99 
+        },
+      {
+        "id": 6, 
+        "name": "The Schlanket",
+        "image": "",
+        "desc": "", 
+        "price": 12.99 
+        },
+      {
+        "id": 7, 
+        "name": "Ethernet Cable",
+        "image": "",
+        "desc": "", 
+        "price": 19.90 
+        },
+      {
+        "id": 8, 
+        "name": "Solid False Hope",
+        "image": "",
+        "desc": "", 
+        "price": 349.00 
+        },
+      {
+        "id": 9, 
+        "name": "Wolf Urine",
+        "image": "",
+        "desc": "", 
+        "price": 25.49 
+        },
+      {
+        "id": 10, 
+        "name": "The Oldest Rock",
+        "image": "",
+        "desc": "", 
+        "price": 7.00 
+        },
+      {
+        "id": 11, 
+        "name": "Adult Colouring Book",
+        "image": "",
+        "desc": "", 
+        "price": 3.40 
+        },
+      {
+        "id": 12, 
+        "name": "Dyson Vacuum Cleaner",
+        "image": "",
+        "desc": "", 
+        "price": 3999.98 
+        }
+    ]
+}
+  
