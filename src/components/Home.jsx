@@ -1,6 +1,11 @@
+import ProductsHome from "./ProductsHome"
+
 function Home() {
   return (
-    <h1>Product Page - displays all products</h1>
+    
+    <ProductsHome/>
+    
+    
   )
 }
 

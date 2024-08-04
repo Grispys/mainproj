@@ -2,6 +2,7 @@ import Checkout from './components/Checkout';
 import Home from './components/Home';
 import ShoppingCart from './components/ShoppingCart';
 
+
 import logo from './assets/peebay.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';

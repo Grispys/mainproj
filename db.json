@@ -3,85 +3,85 @@
       { 
         "id": 1,
         "name": "Television",
-        "image": "",
-        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269780754347458591/pngtree-led-tv-television-screen-vector-png-image_6673700.png?ex=66b14efb&is=66affd7b&hm=3ac85bb39cf63cb185a66ec2a6017c23138fdb3a0f89379a6a429928adb79a07&",
+        "desc": "The greatest television ever made. 3 quadrillion pixels in this QLED display, you will genuinely rather lose a limb than use another TV ever again.",
         "price": 300.00 
       },
       { 
         "id": 2,
         "name": "Blintendo Snitch",
-        "image": "",
-        "desc": "",
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269782196214825010/blintendno.png?ex=66b15052&is=66affed2&hm=6d1de1d5efbe94bd5d6202e0b0791b20cf6c020388397871d89631e397ed8136&",
+        "desc": "The Hit Blintendo Snitch is the latest home console from Blintendo. Featuring more than 4 games, atleast.",
         "price": 199.99 
         },
       {
         "id": 3,
         "name": "1/4th of Einstein's Brain",
-        "image": "",
-        "desc": "", 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269782447843709049/Atx_camp_floordecor_pickledbrain_l.png?ex=66b1508e&is=66afff0e&hm=c766a9eab85e3faff7aa7f286f3f27626d40f89f5a1146fcfe78428b64406efb&",
+        "desc": "When Einstein died, his brain was chopped up and send to several scientists across the globe to study it. Nobody wants to study it anymore so now you can own it I guess.", 
         "price": 1999.99 
         },
       {
         "id": 4, 
         "name": "Jar of Greed",
-        "image": "",
-        "desc": "", 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269782607319662602/JarofGreed-SS01-EN-C-1E.webp?ex=66b150b5&is=66afff35&hm=50d0989f5907125f0c3d2c696bac037da7991a4e05146611233ef7494c7d616b&",
+        "desc": "Trap Card. Draw 2 cards. Costs 0 energy.", 
         "price": 99.98 
         },
       {
         "id": 5, 
         "name": "The Blanket", 
-        "image": "",
-        "desc": "", 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269782870587871294/greyhotelblanket.png?ex=66b150f3&is=66afff73&hm=c7ae355a74f0ed2a44eeb4adff9131b170153070db587640ba9dfd1cf638cc1d&",
+        "desc": "The fuzziest, most comfortable blanket ever made! A combination of silk and cotton.", 
         "price": 9.99 
         },
       {
         "id": 6, 
         "name": "The Schlanket",
-        "image": "",
-        "desc": "", 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269783026083041381/urblanket_large_bedsquarex600.1.jpg?ex=66b15118&is=66afff98&hm=ac0a7e37671ea682f6ab175a5b3831a8f7b606d612a95bd6cc3353ebaa3199ee&",
+        "desc": "This blanket was made by a one Jebediah Schlatt, the Schlanket is even more comfortable than the standard blanket. Made with Schlatt's secret fabric.", 
         "price": 12.99 
         },
       {
         "id": 7, 
         "name": "Ethernet Cable",
-        "image": "",
-        "desc": "", 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269783178520821841/TEC11WHT1.1829-2_-1000x1000-1-600x600.png?ex=66b1513d&is=66afffbd&hm=ac792ac9d220fe379574aef2175a1e3aa3a76e685d5d061af07f60baf7cd057a&",
+        "desc": "A standard flat CAT6 cable used to connect devices to the internet without a wireless connection.", 
         "price": 19.90 
         },
       {
         "id": 8, 
         "name": "Solid False Hope",
-        "image": "",
-        "desc": "", 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269783299086225408/polvereau50gr_1200x1200-ok.webp?ex=66b15159&is=66afffd9&hm=c7e9e07b75f95e272f267ac9cb682eda2adbe48fc02cc465e39b9b5bf1a2a52d&",
+        "desc": "The actual hope of poor children, harvested right from the source. Solidified for your delight.", 
         "price": 349.00 
         },
       {
         "id": 9, 
         "name": "Wolf Urine",
-        "image": "",
-        "desc": "", 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269783442405720174/URINE_Loup_1024x1024.webp?ex=66b1517c&is=66affffc&hm=4a35486f24ecf3c023c932ec588d1d157452144d213352c463f17e9c71d79eb8&",
+        "desc": "Urine from a wolf. Typically used to deter other animals in an outside Enviornment.", 
         "price": 25.49 
         },
       {
         "id": 10, 
         "name": "The Oldest Rock",
-        "image": "",
-        "desc": "", 
-        "price": 7.00 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269783608382722140/RockThumb.webp?ex=66b151a3&is=66b00023&hm=58570c2945b08493f0deeb1d5de9b138d489b10d54e40263d412a04318296acd&",
+        "desc": "This is the first rock ever.", 
+        "price": 7.05 
         },
       {
         "id": 11, 
         "name": "Adult Colouring Book",
-        "image": "",
-        "desc": "", 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269783901623160893/ColouringBook_web.webp?ex=66b151e9&is=66b00069&hm=95cfbef60fbef66a032a51a1725f6367ec221d5a1eb539abf2a3cc549155c99d&",
+        "desc": "Like a child's colouring book, but with pictures of taxes and Heineken bottles instead of cartoons!", 
         "price": 3.40 
         },
       {
         "id": 12, 
         "name": "Dyson Vacuum Cleaner",
-        "image": "",
-        "desc": "", 
+        "image": "https://cdn.discordapp.com/attachments/1269780417700036667/1269783993285480458/447964-01.png?ex=66b151ff&is=66b0007f&hm=283af51d8f4bc98e585a0f36e58abe1313fa24de1bd9de8c2033644f5078580a&",
+        "desc": "There is no other vacuum cleaner that tops this one. This is the Vacuum of the Gods. Powered by a Dyson sphere, a large metal dome that entirely encloses an active star.", 
         "price": 3999.98 
         }
     ]
