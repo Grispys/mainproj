@@ -1,12 +1,12 @@
-import ProductsHome from "./ProductsHome"
+import ProductsHome from './ProductsHome';
 
-function Home() {
+const Home = () => {
+
   return (
-    
-    <ProductsHome/>
-    
-    
-  )
-}
+    <div>
+      <ProductsHome/>
+    </div>
+  );
+};
 
-export default Home
+export default Home;

@@ -78,21 +78,43 @@ input{
 
 
 .imgBox{
-  background-color: #727272;
   width: 175px;
   height: 175px;
   margin: 100px;
   border-radius: 20px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: .3s;
+  background-color: #b4b4b4;
+  position: relative;
 }
 
 .imgBox:hover{
   transition: .3s;
-  background-color: #414141;
+  background-color: #696969;
 }
 
-.imgBox{
-  transition: .3s;
-  background-color: #727272;
+.imgBox
+
+.nameBox{
+  position: absolute;
+  top: 105%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10px;
+}
+.priceBox{
+  position: absolute;
+  top: 115%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10px;
 }
 
-
+.checkout input{
+  width: 400px;
+  margin: 0;
+}

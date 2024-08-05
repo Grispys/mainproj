@@ -1,7 +1,24 @@
-function ShoppingCart() {
-  return (
-    <h1>The shopping cart is displayed here</h1>
-  )
-}
+import React, { useContext } from 'react';
+import { CartContext } from './CartContext';
 
-export default ShoppingCart
+const ShoppingCart = () => {
+  const { cartItems } = useContext(CartContext);
+
+  return (
+    <div>
+      <h1>Shopping Cart:</h1>
+      {cartItems.length === 0 ? (
+        <p>Your cart is currently empty.</p>
+      ) : (
+        <ul>
+          {cartItems.map((item, index) => (
+            <li key={index}>
+              {item.name} - {item.desc} - ${item.price}
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+}
+export default ShoppingCart;
