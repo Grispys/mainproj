@@ -1,5 +1,16 @@
+import { useContext } from 'react';
+import { CartContext } from './CartContext';
 
-function Checkout() {
+const Checkout = ()=> {
+  const { cartItems } = useContext(CartContext);
+  let price = 0 
+  cartItems.map((item) => (
+    price += parseFloat(item.price)
+  ))
+  const taxRate = .15
+  var taxes = price * taxRate
+  var total = taxes + price
+ 
   return (
     <div>
        <div className='checkout'>
@@ -18,7 +29,11 @@ function Checkout() {
        </div>
 
        <h3>Subtotal:</h3>
-       <p>$0.00</p>
+       <p>${price.toFixed(2)}</p>
+       <h3>Taxes:</h3>
+       <p>${taxes.toFixed(2)}</p>
+       <h3>Total:</h3>
+       <p>${total.toFixed(2)}</p>
     </div>
     
   )
