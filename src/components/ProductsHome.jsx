@@ -23,6 +23,7 @@ const ProductsHome = () => {
   }, []);
 
   return (
+    
     <div className='Body-stuff'>
       {products.map((product, index) => (
         <div className='imgBox' key={index}>
@@ -37,6 +38,8 @@ const ProductsHome = () => {
           </div>
         </div>
       ))}
+
+      <p>Thank you for shopping with us.</p>
     </div>
   );
 };
