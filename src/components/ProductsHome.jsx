@@ -6,6 +6,7 @@ const ProductsHome = () => {
   const [products, setProducts] = useState([]);
   const { addItemToCart } = useContext(CartContext);
 
+  // yoink the item details from my json server ***REMEMBER TO SWAP THE IMAGE HOSTING TO IMGUR***
   useEffect(() => {
     const loadProductJson = async () => {
       try {
@@ -23,7 +24,7 @@ const ProductsHome = () => {
   }, []);
 
   return (
-    
+    // display each product from the json along with it's image, name, and price
     <div className='Body-stuff'>
       {products.map((product, index) => (
         <div className='imgBox' key={index}>

@@ -75,6 +75,12 @@ input{
   height: 20px;
 }
 
+.removeButton{
+  background-color: red;
+  color: white;
+  border-radius: 5px 5px 5px;
+  box-shadow: 3px 3px black;
+}
 
 
 .imgBox{

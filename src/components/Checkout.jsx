@@ -1,6 +1,7 @@
 import { useContext } from 'react';
 import { CartContext } from './CartContext';
 
+// add all the prices of items in the shopping cart, add taxes, and spit out total/subtotal
 const Checkout = ()=> {
   const { cartItems } = useContext(CartContext);
   let price = 0 
@@ -11,6 +12,7 @@ const Checkout = ()=> {
   var taxes = price * taxRate
   var total = taxes + price
  
+  // display everyting
   return (
     <div>
        <div className='checkout'>
