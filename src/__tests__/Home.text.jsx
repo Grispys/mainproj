@@ -5,7 +5,7 @@ import ProductsHome from "../components/ProductsHome";
 import { CartContext } from "../components/CartContext";
 
 
-test.only('renders ProductsHome component', () => {
+test('renders ProductsHome component', () => {
 
     const mockCartContextValue = {
       addItemToCart: jest.fn(),
